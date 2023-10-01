@@ -1,4 +1,6 @@
-# React + Vite
+# NIKE CLONE
+### This is a demo Nike Website using react + vite and Tailwind Css
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
