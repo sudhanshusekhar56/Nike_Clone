@@ -1,7 +1,8 @@
 import React from "react";
 
-const ServiceCard = () => {
-  return <div>Service Card</div>;
+const ServiceCard = ({ imgURL, label, subtext }) => {
+  console.log(label);
+  return <div>{label}</div>;
 };
 
 export default ServiceCard;
